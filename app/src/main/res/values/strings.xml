@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Govind Shukla</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hii,My name is Govind,\n\n
+        I am a Third Year Computer Engineering Student At VIT.
+        \n\n
+        I love to play Chess and Solving Algorithmic Problems.
+        \n\n
+        My Interest In the Field of Machine learning and Software Development .
+        \n\n  Dummy text\n\n
+        Welcome to Hydra Ecosystem’s ideas page for GSoC 2020. We would like to receive proposals
+        that encompass different aspects of the development. Different tools are under development
+        and candidates can present projects to fulfill multiple ideas on this page and issues listed
+        at our Github organization page.
+        Application Instructions
+Students wanting to apply to the org must familarise themselves with the Github workflow.
+Working on open issues is the best way for your skill to be recognised.
+It is a good practice to search the history of issues for similar problems before creating a new issue on GitHub,
+        this will avoid the creation of duplicated issues.
+    </string>
+</resources>
